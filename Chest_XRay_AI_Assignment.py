@@ -45,9 +45,7 @@ import util
 
 train_df = pd.read_csv("nih/train-small.csv")
 valid_df = pd.read_csv("nih/valid-small.csv")
-
 test_df = pd.read_csv("nih/test.csv")
-
 train_df.head()
 
 labels = ['Cardiomegaly', 
