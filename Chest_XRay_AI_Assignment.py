@@ -11,7 +11,7 @@
 # - `matplotlib.pyplot` and `seaborn` to produce plots for visualization
 # - `util` will provide the locally defined utility functions
 # 
-# I have used several modules from the `keras` framework for building deep learning models.
+# I have used several modules from the `keras` framework for building deep learning models!
 
 import numpy as np
 import pandas as pd
