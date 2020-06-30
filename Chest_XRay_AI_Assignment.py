@@ -36,7 +36,7 @@ import util
 # - `nih/valid-small.csv`: 109 images from our dataset to be used for validation.
 # - `nih/test.csv`: 420 images from our dataset to be used for testing. 
 # 
-# This dataset has been annotated by consensus among four different radiologists for 5 of our 14 pathologies:
+# This dataset has been annotated by consensus among four different radiologists for 5 of 14 pathologies being observed by the research authors:
 # - `Consolidation`
 # - `Edema`
 # - `Effusion`
